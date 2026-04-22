@@ -73,8 +73,7 @@ engines.tk-vred.location:
   type: app_store
   name: tk-vred
   version: v3.5.7
-# https://github.com/diegogarciahuerta/tk-harmony/releases
 engines.tk-harmony.location:
   type: git
-  path: https://github.com/diegogarciahuerta/tk-harmony
-  version: v1.0.2
+  path: https://github.com/Kortareh/flow-tk-harmony
+  version: v1.0.0
