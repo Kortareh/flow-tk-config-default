@@ -76,4 +76,4 @@ engines.tk-vred.location:
 engines.tk-harmony.location:
   type: git
   path: https://github.com/Kortareh/flow-tk-harmony
-  version: v1.0.0
+  branch: master
