@@ -73,3 +73,8 @@ engines.tk-vred.location:
   type: app_store
   name: tk-vred
   version: v3.5.7
+engines.tk-harmony.location:
+  type: git_branch
+  path: https://github.com/Kortareh/flow-tk-harmony
+  branch: master
+  version: HEAD
